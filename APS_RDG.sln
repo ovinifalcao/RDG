@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APS_RDG", "APS_RDG\APS_RDG.csproj", "{080211C8-4C46-447B-B107-9E0AA981AC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080211C8-4C46-447B-B107-9E0AA981AC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080211C8-4C46-447B-B107-9E0AA981AC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080211C8-4C46-447B-B107-9E0AA981AC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080211C8-4C46-447B-B107-9E0AA981AC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66100484-E265-46E2-BF50-DBF65AE8BBD3}
+	EndGlobalSection
+EndGlobal
